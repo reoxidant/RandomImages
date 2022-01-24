@@ -19,14 +19,13 @@ You need to display the images that are available via a link in the API (this li
 
 ## Screenshots:
 
-- ### Image list screen
+- ### Screen with a list of images and display of the selected image
 
+<div>
 <img src="https://github.com/reoxidant/RandomImages/blob/main/Screenshots/main-screen.png" width=400/>
-
-- ### Detailed image screen
-
 <img src="https://github.com/reoxidant/RandomImages/blob/main/Screenshots/detail-screen.png" width=400/>
-
+</div>
+  
 ## Requirement:
 
 - IOS SDK 15.0
